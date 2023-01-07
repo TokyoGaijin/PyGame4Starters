@@ -30,7 +30,13 @@ def main_game():
     
     def initializer():
         global SCREEN
+
+        ## screen.Screen takes multiple arguments.
+        ## Here, these are the basic args: (width, height, FramesPerSecond)
         SCREEN = screen.Screen(640, 480, 60)
+        ## Additional, option args include: (..., color=(R,G,B), caption="My Game")
+        ## RGB: This value is a 3-element tuple and is defaulted at (0,0,0) - the RGB color code for black
+        ## No caption is set, by default. See screen.py for more information.
         
         ## TODO: Initialize your game objeccts here.
 
