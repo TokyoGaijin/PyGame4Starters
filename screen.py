@@ -26,7 +26,7 @@ class Screen(object):
 
         if caption != None:
             self.GAME_NAME = caption
-            pygame.display.set_cap(self.GAME_NAME)
+            pygame.display.set_caption(self.GAME_NAME)
 
         self.BG_COLOR = bg_color
         self.CLOCK = pygame.time.Clock()
