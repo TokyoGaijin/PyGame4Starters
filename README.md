@@ -17,7 +17,7 @@ Otherwise, feel free to clone this repository onto your local machine and begin 
 
 
 ## HOW TO GET STARTED
-You can click here (https://www.youtube.com/watch?v=f4u6ua7-Nmw) to see a demonstration on YouTube</a>. This library is complete and you won't need to do anything else except to add your own game logic to it and start coding. This should make starting your coding journey much easier, with game code that's so much better to handle.
+You can click here (https://www.youtube.com/watch?v=f4u6ua7-Nmg) to see a demonstration on YouTube</a>. This library is complete and you won't need to do anything else except to add your own game logic to it and start coding. This should make starting your coding journey much easier, with game code that's so much better to handle.
 
 ## Support
 This is, of course, open source. As such, there are no warantees nor working guarantees. Everything uses the pygame module so you will need to get that before you can use these files. Simply go to your command prompt/power shell **as administrator** or your linux terminal (you'll need to `sudo` in order to install PyGame. **DO NOT `su`** as there's no need. `sudo` will suffice.
